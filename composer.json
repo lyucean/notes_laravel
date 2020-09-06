@@ -1,0 +1,12 @@
+{
+    "name": "lyucean/notes_laravel",
+    "description": "My notes for laravel",
+    "type": "project",
+    "authors": [
+        {
+            "name": "lyucean",
+            "email": "lyucean@gmail.com"
+        }
+    ],
+    "require": {}
+}
